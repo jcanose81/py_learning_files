@@ -1,5 +1,4 @@
-# Example Package
+First package created using Python3
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+I had to make a very minor modification when running the command "python3 setup.py sdist bdist_wheel" from "python3..." to "py -3..."
+
